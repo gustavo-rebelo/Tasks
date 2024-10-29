@@ -1,6 +1,6 @@
 # Tasks App
 
-![Tasks App Banner](assets/banner.png)
+<img src="assets/images/banner.png" alt="Banner do Tasks App" width="400" />
 
 ## Descrição
 
