@@ -23,7 +23,21 @@
 
 ## Demonstração
 
-![Demonstração do Aplicativo](assets/banner.png)
+<img src="assets/images/Screenshot_20241029_132245.png" alt="Banner do Tasks App" width="400" />
+
+## Features Futuras
+
+- **Autenticação de Usuário**: Implementar um sistema de login e registro para que os usuários possam ter suas tarefas sincronizadas em múltiplos dispositivos.
+- **Compartilhamento de Tarefas**: Permitir que os usuários compartilhem tarefas com amigos ou familiares, facilitando a colaboração em projetos conjuntos.
+- **Notificações Personalizadas**: Adicionar a capacidade de configurar lembretes personalizados para tarefas específicas.
+- **Integração com Calendários**: Sincronizar tarefas com serviços de calendário, como Google Calendar ou Outlook, para uma melhor gestão de tempo.
+- **Análise de Produtividade**: Criar uma seção para visualizar estatísticas de produtividade, mostrando tarefas concluídas, tempo gasto, e mais.
+- **Modo Escuro**: Implementar um tema escuro para melhorar a usabilidade em ambientes com pouca luz.
+- **Listas de Verificação**: Permitir que os usuários criem listas de verificação dentro das tarefas para um controle mais granular.
+- **Edição de Tarefas**: Modifique detalhes de qualquer tarefa a qualquer momento.
+- **Remoção de Tarefas**: Exclua tarefas que não são mais necessárias para manter sua lista organizada.
+- **Filtros e Ordenação**: Organize suas tarefas com filtros por prioridade ou data de criação.
+- **Notificações**: Receba lembretes sobre tarefas próximas do prazo.
 
 ## Pré-requisitos
 
